@@ -135,7 +135,7 @@ What does SVG stand for?
 
 What tag is used to add SVG to a web page?
 
-What xmlns is.
+What is xmlns?
 
 What format SVG is written in (hint: it's not HTML but it can be put in HTML)
 
@@ -176,8 +176,6 @@ What do people usually mean when they say ES6?
 What tag do we use to put JS inline in the HTML?
 
 What tag do we use to include external JS in HTML?
-
-What
 
 How do you make a variable?
 
